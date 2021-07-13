@@ -1,1 +1,1 @@
-Arrays notes and practice
+Notes and practice on arrays for Bloc
